@@ -4,20 +4,19 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('HADES_BOT\nYOVANI\nHADES_BOT', {
+CFonts.say('ALEMAN_BOT\nALEMAN\nALEMAN_BOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+CFonts.say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP ALEMAN_BOT
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
-[•]-GRACIAS POR USAR LE BOT DE HADES 
-[•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-Owner : ALEMAN
+[•]-GRACIAS POR USAR LE BOT DE ALEMAN 
+[•]-CERRADO EL BOT ALEMAN
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',

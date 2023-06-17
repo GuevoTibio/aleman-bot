@@ -1,7 +1,6 @@
 {
-  "name": "HADES_BOT",
-  "version": "1.0.0",
-  "description": "Subscribete a The HADES- Bot (≧▽≦)",
+  "name": "ALEMAN_BOT",
+  "version": "1.0.",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -24,7 +23,7 @@
   ],
   "homepage": "",
   "author": {
-    "name": "YOVANI"
+    "name": "ALEMAN"
   },
   "repository": {
     "type": "git",

@@ -292,7 +292,7 @@ module.exports = {
             if (!['unbanuser.js', 'inv.js', 'link.js', 'creator.js', 'profile.js'].includes(name) && user && user.banned && !isROwner) {
               if (!opts['msgifbanned']) m.reply(`
 ╭━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╮
-├⇶❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣
+├⇶❍͜͡➣ALEMAN_𝐁𝐎𝐓❍͜͡➣
 ├━━━━≪✯𓆩ֶ፝֟𓆪⁩✯≫━━━╯              
 ├⇶⚠️❗𝐄𝐒𝐓𝐀𝐒 𝐁𝐀𝐍𝐄𝐀𝐃𝐎❗⚠️ ${user.bannedReason ? `\n*Motivo:* *${user.bannedReason}*` : ''}    
 ├━━━━≪✯𓆩ֶ፝֟𓆪⁩✯≫━━━╯    
